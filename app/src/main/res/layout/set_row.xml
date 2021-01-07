@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_seat_no"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_50sdp"
+    android:gravity="center"
+    android:textStyle="bold"
+    android:textSize="@dimen/_16ssp"
+    android:layout_margin="@dimen/_1sdp"
+    android:text="@string/seat_no">
+
+</TextView>
